@@ -2,10 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/MasonJAR/Documents/sample-swift/BarCrowd2.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:HTMLKit/HTMLKit.xcodeproj">
+      location = "group:BarCrowd2.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
