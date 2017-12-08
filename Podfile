@@ -1,7 +1,8 @@
 # Uncomment the next line to define a global platform for your project
+project 'BarCrowd2'
 platform :ios, '8.0'
 
-target 'SendBird-iOS' do
+target 'BarCrowd2' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
@@ -11,7 +12,7 @@ target 'SendBird-iOS' do
   pod 'MGSwipeTableCell'
   pod 'FLAnimatedImage', '~> 1.0'
   pod 'NYTPhotoViewer', '~> 1.1.0'
-#  pod 'HTMLKit', '~> 2.0'
+  pod 'HTMLKit', '~> 2.0'
   pod 'TTTAttributedLabel'
   pod 'RSKImageCropper'
   pod 'FBSDKCoreKit'
